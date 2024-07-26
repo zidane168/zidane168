@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zidane168, nice too meet you all
 - 👀 I’m interested in programming
-- 🌱 I’m currently working with AdnoisJS (NODEJS), PHP (CAKEPHP 4.2.5+), Flutter Development
+- 🌱 I’m currently working with NextJS (react 18), NestJS, PHP (CAKEPHP 4.2.5+), Mongo, MySQL, 
 - 📫 My tech blog: https://learn-tech-tips.blogspot.com/
 
 <!---
