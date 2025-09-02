@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1B15F7&width=600&height=100&lines=I+am+a+builder+and+full+stack+web+developer;Experience+in+creating+top-notch+template+CRM;I+love+apply+AI+for+make+daily+work+easily;Experince+in+using+NestJS%2C+NextJS%2C+PHP)](https://git.io/typing-svg)
+
 - 👋 Hi, I’m @zidane168, nice too meet you all
 - 👀 I’m interested in programming
 - 🌱 I’m currently working with NextJS (react 18), NestJS, PHP (CAKEPHP 4.2.5+), Mongo, MySQL, DDEV, Docker
